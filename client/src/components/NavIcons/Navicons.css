@@ -1,0 +1,12 @@
+.logout-button-right {
+    width: 7rem;
+    height: 2rem;
+    margin-left: 210px;
+    align-self: flex-end;
+  }
+  .navIcons {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
